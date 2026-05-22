@@ -1068,3 +1068,64 @@
 2026-05-22 09:51:57 - Total cities extracted: 8
 2026-05-22 09:52:03 - Initialized page: WellnessPage
 2026-05-22 09:52:16 - Initialized page: WellnessPage
+2026-05-22 10:05:15 - Initialized page: WellnessPage
+2026-05-22 10:05:15 - Opening application and setting location: Bangalore
+2026-05-22 10:05:15 - Initialized page: HospitalsPage
+2026-05-22 10:05:16 - Initializing Diagnostics Page
+2026-05-22 10:05:16 - Initialized page: DiagnosticsPage
+2026-05-22 10:05:16 - DiagnosticsPage initialized
+2026-05-22 10:05:16 - Scrolling to diagnostics section
+2026-05-22 10:05:17 - Clicking on 'Book Diagnostic Tests'
+2026-05-22 10:05:18 - Searching hospital: Hospital
+2026-05-22 10:05:23 - Waiting for Top Cities section to be visible
+2026-05-22 10:05:24 - Extracting Top Cities list
+2026-05-22 10:05:24 - City found: Bangalore
+2026-05-22 10:05:24 - City found: Delhi
+2026-05-22 10:05:24 - City found: Mumbai
+2026-05-22 10:05:24 - City found: Chennai
+2026-05-22 10:05:24 - City found: Hyderabad
+2026-05-22 10:05:24 - City found: Kolkata
+2026-05-22 10:05:24 - City found: Pune
+2026-05-22 10:05:24 - City found: Ahmedabad
+2026-05-22 10:05:24 - Total cities extracted: 8
+2026-05-22 10:05:30 - Filtering hospitals
+2026-05-22 10:05:33 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-22 10:05:33 - Hospital: 2. MIOT International Hospital
+2026-05-22 10:05:33 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-22 10:05:33 - Hospital: 4. Annai Arul Hospital
+2026-05-22 10:05:33 - Hospital: 5. Apollo Cradle
+2026-05-22 10:05:33 - Hospital: 6. Iswarya Fertility Centre
+2026-05-22 10:05:33 - Hospital: 7. Cloudnine Hospital
+2026-05-22 10:05:33 - Hospital: 8. Motherhood Hospital
+2026-05-22 10:05:33 - Hospital: 9. Shadithya Hospital
+2026-05-22 10:06:04 - Opening application and setting location: Bangalore
+2026-05-22 10:06:04 - Initialized page: HospitalsPage
+2026-05-22 10:06:05 - Searching hospital: Hospital
+2026-05-22 10:06:15 - Filtering hospitals
+2026-05-22 10:06:17 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-22 10:06:17 - Hospital: 2. MIOT International Hospital
+2026-05-22 10:06:17 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-22 10:06:17 - Hospital: 4. Annai Arul Hospital
+2026-05-22 10:06:17 - Hospital: 5. Apollo Cradle
+2026-05-22 10:06:17 - Hospital: 6. Iswarya Fertility Centre
+2026-05-22 10:06:17 - Hospital: 7. Cloudnine Hospital
+2026-05-22 10:06:17 - Hospital: 8. Motherhood Hospital
+2026-05-22 10:06:17 - Hospital: 9. Shadithya Hospital
+2026-05-22 10:06:27 - Initializing Diagnostics Page
+2026-05-22 10:06:27 - Initialized page: DiagnosticsPage
+2026-05-22 10:06:27 - DiagnosticsPage initialized
+2026-05-22 10:06:27 - Scrolling to diagnostics section
+2026-05-22 10:06:27 - Clicking on 'Book Diagnostic Tests'
+2026-05-22 10:06:32 - Waiting for Top Cities section to be visible
+2026-05-22 10:06:32 - Extracting Top Cities list
+2026-05-22 10:06:32 - City found: Bangalore
+2026-05-22 10:06:32 - City found: Delhi
+2026-05-22 10:06:32 - City found: Mumbai
+2026-05-22 10:06:32 - City found: Chennai
+2026-05-22 10:06:32 - City found: Hyderabad
+2026-05-22 10:06:32 - City found: Kolkata
+2026-05-22 10:06:32 - City found: Pune
+2026-05-22 10:06:32 - City found: Ahmedabad
+2026-05-22 10:06:32 - Total cities extracted: 8
+2026-05-22 10:06:39 - Initialized page: WellnessPage
+2026-05-22 10:06:52 - Initialized page: WellnessPage

@@ -1,0 +1,1039 @@
+2026-05-20 20:28:18 - Initializing Browser...
+2026-05-20 20:28:18 - Loading config.properties
+2026-05-20 20:28:18 - Execution Env: local
+2026-05-20 20:28:18 - Browser: chrome
+2026-05-20 20:28:18 - Running tests in LOCAL mode
+2026-05-20 20:28:26 - Applying browser settings
+2026-05-20 20:28:26 - Browser launched successfully
+2026-05-20 20:28:28 - Initialized page: WellnessPage
+2026-05-20 20:28:28 - WellnessPage initialized
+2026-05-20 20:28:49 - Initializing Browser...
+2026-05-20 20:28:49 - Execution Env: local
+2026-05-20 20:28:49 - Browser: chrome
+2026-05-20 20:28:49 - Running tests in LOCAL mode
+2026-05-20 20:28:52 - Applying browser settings
+2026-05-20 20:28:53 - Browser launched successfully
+2026-05-20 20:28:55 - Initialized page: WellnessPage
+2026-05-20 20:28:55 - WellnessPage initialized
+2026-05-20 20:30:36 - Initializing Browser...
+2026-05-20 20:30:36 - Loading config.properties
+2026-05-20 20:30:36 - Execution Env: local
+2026-05-20 20:30:36 - Browser: chrome
+2026-05-20 20:30:36 - Running tests in LOCAL mode
+2026-05-20 20:30:40 - Applying browser settings
+2026-05-20 20:30:40 - Browser launched successfully
+2026-05-20 20:30:43 - Initialized page: WellnessPage
+2026-05-20 20:30:43 - WellnessPage initialized
+2026-05-20 20:31:03 - Initializing Browser...
+2026-05-20 20:31:03 - Execution Env: local
+2026-05-20 20:31:03 - Browser: chrome
+2026-05-20 20:31:03 - Running tests in LOCAL mode
+2026-05-20 20:31:07 - Applying browser settings
+2026-05-20 20:31:07 - Browser launched successfully
+2026-05-20 20:31:09 - Initialized page: WellnessPage
+2026-05-20 20:31:09 - WellnessPage initialized
+2026-05-20 20:31:51 - Initializing Browser...
+2026-05-20 20:31:51 - Loading config.properties
+2026-05-20 20:31:51 - Execution Env: local
+2026-05-20 20:31:51 - Browser: chrome
+2026-05-20 20:31:51 - Running tests in LOCAL mode
+2026-05-20 20:31:55 - Applying browser settings
+2026-05-20 20:31:55 - Browser launched successfully
+2026-05-20 20:31:59 - Initialized page: WellnessPage
+2026-05-20 20:31:59 - WellnessPage initialized
+2026-05-20 20:32:21 - Initializing Browser...
+2026-05-20 20:32:21 - Execution Env: local
+2026-05-20 20:32:21 - Browser: chrome
+2026-05-20 20:32:21 - Running tests in LOCAL mode
+2026-05-20 20:32:25 - Applying browser settings
+2026-05-20 20:32:25 - Browser launched successfully
+2026-05-20 20:32:26 - Initialized page: WellnessPage
+2026-05-20 20:32:26 - WellnessPage initialized
+2026-05-20 20:44:07 - Initializing Browser...
+2026-05-20 20:44:07 - Loading config.properties
+2026-05-20 20:44:07 - Execution Env: local
+2026-05-20 20:44:07 - Browser: chrome
+2026-05-20 20:44:07 - Running tests in LOCAL mode
+2026-05-20 20:44:11 - Applying browser settings
+2026-05-20 20:44:11 - Browser launched successfully
+2026-05-20 20:44:18 - Initialized page: WellnessPage
+2026-05-20 20:44:18 - WellnessPage initialized
+2026-05-20 20:56:46 - Initializing Browser...
+2026-05-20 20:56:46 - Loading config.properties
+2026-05-20 20:56:46 - Execution Env: local
+2026-05-20 20:56:46 - Browser: chrome
+2026-05-20 20:56:46 - Running tests in LOCAL mode
+2026-05-20 20:56:51 - Applying browser settings
+2026-05-20 20:56:52 - Browser launched successfully
+2026-05-20 20:56:54 - Initialized page: WellnessPage
+2026-05-20 20:56:54 - WellnessPage initialized
+2026-05-20 20:57:13 - Initializing Browser...
+2026-05-20 20:57:13 - Execution Env: local
+2026-05-20 20:57:13 - Browser: chrome
+2026-05-20 20:57:13 - Running tests in LOCAL mode
+2026-05-20 20:57:17 - Applying browser settings
+2026-05-20 20:57:17 - Browser launched successfully
+2026-05-20 20:57:20 - Initialized page: WellnessPage
+2026-05-20 20:57:20 - WellnessPage initialized
+2026-05-20 20:58:30 - Initializing Browser...
+2026-05-20 20:58:30 - Loading config.properties
+2026-05-20 20:58:30 - Execution Env: local
+2026-05-20 20:58:30 - Browser: chrome
+2026-05-20 20:58:30 - Running tests in LOCAL mode
+2026-05-20 20:58:34 - Applying browser settings
+2026-05-20 20:58:34 - Browser launched successfully
+2026-05-20 20:58:37 - Initialized page: WellnessPage
+2026-05-20 20:58:37 - WellnessPage initialized
+2026-05-20 20:58:56 - Initializing Browser...
+2026-05-20 20:58:56 - Execution Env: local
+2026-05-20 20:58:56 - Browser: chrome
+2026-05-20 20:58:56 - Running tests in LOCAL mode
+2026-05-20 20:59:00 - Applying browser settings
+2026-05-20 20:59:00 - Browser launched successfully
+2026-05-20 20:59:03 - Initialized page: WellnessPage
+2026-05-20 20:59:03 - WellnessPage initialized
+2026-05-20 21:00:08 - Initializing Browser...
+2026-05-20 21:00:08 - Loading config.properties
+2026-05-20 21:00:08 - Execution Env: local
+2026-05-20 21:00:08 - Browser: chrome
+2026-05-20 21:00:08 - Running tests in LOCAL mode
+2026-05-20 21:00:12 - Applying browser settings
+2026-05-20 21:00:12 - Browser launched successfully
+2026-05-20 21:00:15 - Initialized page: WellnessPage
+2026-05-20 21:00:15 - WellnessPage initialized
+2026-05-20 21:00:37 - Initializing Browser...
+2026-05-20 21:00:37 - Execution Env: local
+2026-05-20 21:00:37 - Browser: chrome
+2026-05-20 21:00:37 - Running tests in LOCAL mode
+2026-05-20 21:00:40 - Applying browser settings
+2026-05-20 21:00:40 - Browser launched successfully
+2026-05-20 21:00:42 - Initialized page: WellnessPage
+2026-05-20 21:00:42 - WellnessPage initialized
+2026-05-20 21:01:35 - Initializing Browser...
+2026-05-20 21:01:35 - Loading config.properties
+2026-05-20 21:01:35 - Execution Env: local
+2026-05-20 21:01:35 - Browser: chrome
+2026-05-20 21:01:35 - Running tests in LOCAL mode
+2026-05-20 21:01:39 - Applying browser settings
+2026-05-20 21:01:40 - Browser launched successfully
+2026-05-20 21:01:42 - Initialized page: WellnessPage
+2026-05-20 21:01:42 - WellnessPage initialized
+2026-05-20 21:01:57 - Initializing Browser...
+2026-05-20 21:01:57 - Execution Env: local
+2026-05-20 21:01:57 - Browser: chrome
+2026-05-20 21:01:57 - Running tests in LOCAL mode
+2026-05-20 21:02:01 - Applying browser settings
+2026-05-20 21:02:01 - Browser launched successfully
+2026-05-20 21:02:04 - Initialized page: WellnessPage
+2026-05-20 21:02:04 - WellnessPage initialized
+2026-05-20 21:04:42 - Initializing Browser...
+2026-05-20 21:04:42 - Loading config.properties
+2026-05-20 21:04:42 - Execution Env: local
+2026-05-20 21:04:42 - Browser: chrome
+2026-05-20 21:04:42 - Running tests in LOCAL mode
+2026-05-20 21:04:47 - Applying browser settings
+2026-05-20 21:04:47 - Browser launched successfully
+2026-05-20 21:04:50 - Initialized page: WellnessPage
+2026-05-20 21:04:50 - WellnessPage initialized
+2026-05-20 21:05:06 - Initializing Browser...
+2026-05-20 21:05:06 - Execution Env: local
+2026-05-20 21:05:06 - Browser: chrome
+2026-05-20 21:05:06 - Running tests in LOCAL mode
+2026-05-20 21:05:10 - Applying browser settings
+2026-05-20 21:05:10 - Browser launched successfully
+2026-05-20 21:05:11 - Initialized page: WellnessPage
+2026-05-20 21:05:11 - WellnessPage initialized
+2026-05-20 21:09:02 - Initializing Browser...
+2026-05-20 21:09:02 - Loading config.properties
+2026-05-20 21:09:02 - Execution Env: local
+2026-05-20 21:09:02 - Browser: chrome
+2026-05-20 21:09:02 - Running tests in LOCAL mode
+2026-05-20 21:09:06 - Applying browser settings
+2026-05-20 21:09:06 - Browser launched successfully
+2026-05-20 21:09:09 - Initialized page: HospitalsPage
+2026-05-20 21:09:41 - Initializing Browser...
+2026-05-20 21:09:41 - Execution Env: local
+2026-05-20 21:09:41 - Browser: chrome
+2026-05-20 21:09:41 - Running tests in LOCAL mode
+2026-05-20 21:09:44 - Applying browser settings
+2026-05-20 21:09:44 - Browser launched successfully
+2026-05-20 21:09:47 - Initialized page: HospitalsPage
+2026-05-20 21:09:50 - Initializing Browser...
+2026-05-20 21:09:50 - Execution Env: local
+2026-05-20 21:09:50 - Browser: chrome
+2026-05-20 21:09:50 - Running tests in LOCAL mode
+2026-05-20 21:09:54 - Applying browser settings
+2026-05-20 21:09:54 - Browser launched successfully
+2026-05-20 21:09:57 - Initialized page: HospitalsPage
+2026-05-21 09:34:08 - Initializing Browser...
+2026-05-21 09:34:08 - Loading config.properties
+2026-05-21 09:34:08 - Execution Env: local
+2026-05-21 09:34:08 - Browser: chrome
+2026-05-21 09:34:08 - Running tests in LOCAL mode
+2026-05-21 09:34:12 - Applying browser settings
+2026-05-21 09:34:13 - Browser launched successfully
+2026-05-21 09:34:15 - Initialized page: HospitalsPage
+2026-05-21 09:34:35 - Initializing Browser...
+2026-05-21 09:34:35 - Execution Env: local
+2026-05-21 09:34:35 - Browser: chrome
+2026-05-21 09:34:35 - Running tests in LOCAL mode
+2026-05-21 09:34:38 - Applying browser settings
+2026-05-21 09:34:38 - Browser launched successfully
+2026-05-21 09:34:39 - Initialized page: HospitalsPage
+2026-05-21 09:34:43 - Initializing Browser...
+2026-05-21 09:34:43 - Execution Env: local
+2026-05-21 09:34:43 - Browser: chrome
+2026-05-21 09:34:43 - Running tests in LOCAL mode
+2026-05-21 09:34:47 - Applying browser settings
+2026-05-21 09:34:47 - Browser launched successfully
+2026-05-21 09:34:48 - Initialized page: HospitalsPage
+2026-05-21 09:37:25 - Initializing Browser...
+2026-05-21 09:37:25 - Loading config.properties
+2026-05-21 09:37:25 - Execution Env: local
+2026-05-21 09:37:25 - Browser: chrome
+2026-05-21 09:37:25 - Running tests in LOCAL mode
+2026-05-21 09:37:30 - Applying browser settings
+2026-05-21 09:37:30 - Browser launched successfully
+2026-05-21 09:37:33 - Initializing Diagnostics Page
+2026-05-21 09:37:33 - Initialized page: DiagnosticsPage
+2026-05-21 09:37:33 - DiagnosticsPage initialized
+2026-05-21 09:37:33 - Scrolling to diagnostics section
+2026-05-21 09:37:33 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 09:37:41 - Waiting for Top Cities section to be visible
+2026-05-21 09:37:42 - Extracting Top Cities list
+2026-05-21 09:37:42 - City found: Bangalore
+2026-05-21 09:37:42 - City found: Delhi
+2026-05-21 09:37:42 - City found: Mumbai
+2026-05-21 09:37:42 - City found: Chennai
+2026-05-21 09:37:42 - City found: Hyderabad
+2026-05-21 09:37:42 - City found: Kolkata
+2026-05-21 09:37:42 - City found: Pune
+2026-05-21 09:37:42 - City found: Ahmedabad
+2026-05-21 09:37:42 - Total cities extracted: 8
+2026-05-21 09:38:32 - Initializing Browser...
+2026-05-21 09:38:32 - Loading config.properties
+2026-05-21 09:38:32 - Execution Env: local
+2026-05-21 09:38:32 - Browser: chrome
+2026-05-21 09:38:32 - Running tests in LOCAL mode
+2026-05-21 09:38:37 - Applying browser settings
+2026-05-21 09:38:37 - Browser launched successfully
+2026-05-21 09:38:39 - Initialized page: WellnessPage
+2026-05-21 09:38:39 - WellnessPage initialized
+2026-05-21 09:39:03 - Initializing Browser...
+2026-05-21 09:39:03 - Execution Env: local
+2026-05-21 09:39:03 - Browser: chrome
+2026-05-21 09:39:03 - Running tests in LOCAL mode
+2026-05-21 09:39:06 - Applying browser settings
+2026-05-21 09:39:07 - Browser launched successfully
+2026-05-21 09:39:09 - Initialized page: WellnessPage
+2026-05-21 09:39:09 - WellnessPage initialized
+2026-05-21 09:54:56 - Initializing Browser...
+2026-05-21 09:54:56 - Loading config.properties
+2026-05-21 09:54:56 - Execution Env: local
+2026-05-21 09:54:56 - Browser: chrome
+2026-05-21 09:54:56 - Running tests in LOCAL mode
+2026-05-21 09:55:04 - Applying browser settings
+2026-05-21 09:55:04 - Browser launched successfully
+2026-05-21 09:55:08 - Initialized page: HospitalsPage
+2026-05-21 09:55:12 - Initializing Browser...
+2026-05-21 09:55:12 - Execution Env: local
+2026-05-21 09:55:12 - Browser: chrome
+2026-05-21 09:55:12 - Running tests in LOCAL mode
+2026-05-21 09:55:15 - Applying browser settings
+2026-05-21 09:55:15 - Browser launched successfully
+2026-05-21 09:55:17 - Initialized page: HospitalsPage
+2026-05-21 09:55:19 - Initializing Browser...
+2026-05-21 09:55:19 - Execution Env: local
+2026-05-21 09:55:19 - Browser: chrome
+2026-05-21 09:55:19 - Running tests in LOCAL mode
+2026-05-21 09:55:23 - Applying browser settings
+2026-05-21 09:55:23 - Browser launched successfully
+2026-05-21 09:55:25 - Initialized page: HospitalsPage
+2026-05-21 09:55:27 - Initializing Browser...
+2026-05-21 09:55:27 - Execution Env: local
+2026-05-21 09:55:27 - Browser: chrome
+2026-05-21 09:55:27 - Running tests in LOCAL mode
+2026-05-21 09:55:31 - Applying browser settings
+2026-05-21 09:55:31 - Browser launched successfully
+2026-05-21 09:55:32 - Initializing Diagnostics Page
+2026-05-21 09:55:32 - Initialized page: DiagnosticsPage
+2026-05-21 09:55:32 - DiagnosticsPage initialized
+2026-05-21 09:55:32 - Scrolling to diagnostics section
+2026-05-21 09:55:32 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 09:55:39 - Waiting for Top Cities section to be visible
+2026-05-21 09:55:39 - Extracting Top Cities list
+2026-05-21 09:55:39 - City found: Bangalore
+2026-05-21 09:55:39 - City found: Delhi
+2026-05-21 09:55:39 - City found: Mumbai
+2026-05-21 09:55:39 - City found: Chennai
+2026-05-21 09:55:39 - City found: Hyderabad
+2026-05-21 09:55:39 - City found: Kolkata
+2026-05-21 09:55:39 - City found: Pune
+2026-05-21 09:55:39 - City found: Ahmedabad
+2026-05-21 09:55:39 - Total cities extracted: 8
+2026-05-21 09:55:42 - Initializing Browser...
+2026-05-21 09:55:42 - Execution Env: local
+2026-05-21 09:55:42 - Browser: chrome
+2026-05-21 09:55:42 - Running tests in LOCAL mode
+2026-05-21 09:55:46 - Applying browser settings
+2026-05-21 09:55:46 - Browser launched successfully
+2026-05-21 09:55:48 - Initialized page: WellnessPage
+2026-05-21 09:55:59 - Initializing Browser...
+2026-05-21 09:55:59 - Execution Env: local
+2026-05-21 09:55:59 - Browser: chrome
+2026-05-21 09:55:59 - Running tests in LOCAL mode
+2026-05-21 09:56:02 - Applying browser settings
+2026-05-21 09:56:02 - Browser launched successfully
+2026-05-21 09:56:04 - Initialized page: WellnessPage
+2026-05-21 09:59:58 - Initializing Browser...
+2026-05-21 09:59:58 - Loading config.properties
+2026-05-21 09:59:58 - Execution Env: local
+2026-05-21 09:59:58 - Browser: chrome
+2026-05-21 09:59:58 - Running tests in LOCAL mode
+2026-05-21 10:00:02 - Applying browser settings
+2026-05-21 10:00:02 - Browser launched successfully
+2026-05-21 10:00:04 - Initialized page: HospitalsPage
+2026-05-21 10:00:20 - Initializing Browser...
+2026-05-21 10:00:20 - Execution Env: local
+2026-05-21 10:00:20 - Browser: chrome
+2026-05-21 10:00:20 - Running tests in LOCAL mode
+2026-05-21 10:00:24 - Applying browser settings
+2026-05-21 10:00:24 - Browser launched successfully
+2026-05-21 10:00:25 - Initialized page: HospitalsPage
+2026-05-21 10:00:28 - Initializing Browser...
+2026-05-21 10:00:28 - Execution Env: local
+2026-05-21 10:00:28 - Browser: chrome
+2026-05-21 10:00:28 - Running tests in LOCAL mode
+2026-05-21 10:00:32 - Applying browser settings
+2026-05-21 10:00:32 - Browser launched successfully
+2026-05-21 10:00:34 - Initialized page: HospitalsPage
+2026-05-21 10:00:37 - Initializing Browser...
+2026-05-21 10:00:37 - Execution Env: local
+2026-05-21 10:00:37 - Browser: chrome
+2026-05-21 10:00:37 - Running tests in LOCAL mode
+2026-05-21 10:00:41 - Applying browser settings
+2026-05-21 10:00:41 - Browser launched successfully
+2026-05-21 10:00:42 - Initializing Diagnostics Page
+2026-05-21 10:00:42 - Initialized page: DiagnosticsPage
+2026-05-21 10:00:42 - DiagnosticsPage initialized
+2026-05-21 10:00:42 - Scrolling to diagnostics section
+2026-05-21 10:00:42 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 10:00:48 - Waiting for Top Cities section to be visible
+2026-05-21 10:00:49 - Extracting Top Cities list
+2026-05-21 10:00:49 - City found: Bangalore
+2026-05-21 10:00:49 - City found: Delhi
+2026-05-21 10:00:49 - City found: Mumbai
+2026-05-21 10:00:49 - City found: Chennai
+2026-05-21 10:00:49 - City found: Hyderabad
+2026-05-21 10:00:49 - City found: Kolkata
+2026-05-21 10:00:49 - City found: Pune
+2026-05-21 10:00:49 - City found: Ahmedabad
+2026-05-21 10:00:49 - Total cities extracted: 8
+2026-05-21 10:00:52 - Initializing Browser...
+2026-05-21 10:00:52 - Execution Env: local
+2026-05-21 10:00:52 - Browser: chrome
+2026-05-21 10:00:52 - Running tests in LOCAL mode
+2026-05-21 10:00:56 - Applying browser settings
+2026-05-21 10:00:56 - Browser launched successfully
+2026-05-21 10:00:57 - Initialized page: WellnessPage
+2026-05-21 10:01:07 - Initializing Browser...
+2026-05-21 10:01:07 - Execution Env: local
+2026-05-21 10:01:07 - Browser: chrome
+2026-05-21 10:01:07 - Running tests in LOCAL mode
+2026-05-21 10:01:10 - Applying browser settings
+2026-05-21 10:01:10 - Browser launched successfully
+2026-05-21 10:01:12 - Initialized page: WellnessPage
+2026-05-21 10:03:51 - Initializing Browser...
+2026-05-21 10:03:51 - Loading config.properties
+2026-05-21 10:03:51 - Execution Env: local
+2026-05-21 10:03:51 - Browser: chrome
+2026-05-21 10:03:51 - Running tests in LOCAL mode
+2026-05-21 10:03:55 - Applying browser settings
+2026-05-21 10:03:55 - Browser launched successfully
+2026-05-21 10:03:57 - Initialized page: HospitalsPage
+2026-05-21 10:04:14 - Initializing Browser...
+2026-05-21 10:04:14 - Execution Env: local
+2026-05-21 10:04:14 - Browser: chrome
+2026-05-21 10:04:14 - Running tests in LOCAL mode
+2026-05-21 10:04:17 - Applying browser settings
+2026-05-21 10:04:17 - Browser launched successfully
+2026-05-21 10:04:20 - Initialized page: HospitalsPage
+2026-05-21 10:04:23 - Initializing Browser...
+2026-05-21 10:04:23 - Execution Env: local
+2026-05-21 10:04:23 - Browser: chrome
+2026-05-21 10:04:23 - Running tests in LOCAL mode
+2026-05-21 10:04:26 - Applying browser settings
+2026-05-21 10:04:27 - Browser launched successfully
+2026-05-21 10:04:28 - Initialized page: HospitalsPage
+2026-05-21 10:04:31 - Initializing Browser...
+2026-05-21 10:04:31 - Execution Env: local
+2026-05-21 10:04:31 - Browser: chrome
+2026-05-21 10:04:31 - Running tests in LOCAL mode
+2026-05-21 10:04:35 - Applying browser settings
+2026-05-21 10:04:35 - Browser launched successfully
+2026-05-21 10:04:37 - Initializing Diagnostics Page
+2026-05-21 10:04:37 - Initialized page: DiagnosticsPage
+2026-05-21 10:04:37 - DiagnosticsPage initialized
+2026-05-21 10:04:37 - Scrolling to diagnostics section
+2026-05-21 10:04:37 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 10:04:43 - Waiting for Top Cities section to be visible
+2026-05-21 10:04:44 - Extracting Top Cities list
+2026-05-21 10:04:44 - City found: Bangalore
+2026-05-21 10:04:44 - City found: Delhi
+2026-05-21 10:04:44 - City found: Mumbai
+2026-05-21 10:04:44 - City found: Chennai
+2026-05-21 10:04:44 - City found: Hyderabad
+2026-05-21 10:04:44 - City found: Kolkata
+2026-05-21 10:04:44 - City found: Pune
+2026-05-21 10:04:44 - City found: Ahmedabad
+2026-05-21 10:04:44 - Total cities extracted: 8
+2026-05-21 10:04:47 - Initializing Browser...
+2026-05-21 10:04:47 - Execution Env: local
+2026-05-21 10:04:47 - Browser: chrome
+2026-05-21 10:04:47 - Running tests in LOCAL mode
+2026-05-21 10:04:51 - Applying browser settings
+2026-05-21 10:04:51 - Browser launched successfully
+2026-05-21 10:04:53 - Initialized page: WellnessPage
+2026-05-21 10:05:04 - Initializing Browser...
+2026-05-21 10:05:04 - Execution Env: local
+2026-05-21 10:05:04 - Browser: chrome
+2026-05-21 10:05:04 - Running tests in LOCAL mode
+2026-05-21 10:05:08 - Applying browser settings
+2026-05-21 10:05:08 - Browser launched successfully
+2026-05-21 10:05:10 - Initialized page: WellnessPage
+2026-05-21 10:09:57 - Initializing Browser...
+2026-05-21 10:09:57 - Loading config.properties
+2026-05-21 10:09:57 - Execution Env: local
+2026-05-21 10:09:57 - Browser: chrome
+2026-05-21 10:09:57 - Running tests in LOCAL mode
+2026-05-21 10:10:02 - Applying browser settings
+2026-05-21 10:10:02 - Browser launched successfully
+2026-05-21 10:10:04 - Initialized page: HospitalsPage
+2026-05-21 10:10:20 - Initializing Browser...
+2026-05-21 10:10:20 - Execution Env: local
+2026-05-21 10:10:20 - Browser: chrome
+2026-05-21 10:10:20 - Running tests in LOCAL mode
+2026-05-21 10:10:23 - Applying browser settings
+2026-05-21 10:10:23 - Browser launched successfully
+2026-05-21 10:10:25 - Initialized page: HospitalsPage
+2026-05-21 10:10:28 - Initializing Browser...
+2026-05-21 10:10:28 - Execution Env: local
+2026-05-21 10:10:28 - Browser: chrome
+2026-05-21 10:10:28 - Running tests in LOCAL mode
+2026-05-21 10:10:31 - Applying browser settings
+2026-05-21 10:10:31 - Browser launched successfully
+2026-05-21 10:10:33 - Initialized page: HospitalsPage
+2026-05-21 10:10:35 - Initializing Browser...
+2026-05-21 10:10:35 - Execution Env: local
+2026-05-21 10:10:35 - Browser: chrome
+2026-05-21 10:10:35 - Running tests in LOCAL mode
+2026-05-21 10:10:38 - Applying browser settings
+2026-05-21 10:10:38 - Browser launched successfully
+2026-05-21 10:10:40 - Initializing Diagnostics Page
+2026-05-21 10:10:40 - Initialized page: DiagnosticsPage
+2026-05-21 10:10:40 - DiagnosticsPage initialized
+2026-05-21 10:10:40 - Scrolling to diagnostics section
+2026-05-21 10:10:40 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 10:10:46 - Waiting for Top Cities section to be visible
+2026-05-21 10:10:47 - Extracting Top Cities list
+2026-05-21 10:10:47 - City found: Bangalore
+2026-05-21 10:10:47 - City found: Delhi
+2026-05-21 10:10:47 - City found: Mumbai
+2026-05-21 10:10:47 - City found: Chennai
+2026-05-21 10:10:47 - City found: Hyderabad
+2026-05-21 10:10:47 - City found: Kolkata
+2026-05-21 10:10:47 - City found: Pune
+2026-05-21 10:10:47 - City found: Ahmedabad
+2026-05-21 10:10:47 - Total cities extracted: 8
+2026-05-21 10:10:50 - Initializing Browser...
+2026-05-21 10:10:50 - Execution Env: local
+2026-05-21 10:10:50 - Browser: chrome
+2026-05-21 10:10:50 - Running tests in LOCAL mode
+2026-05-21 10:10:54 - Applying browser settings
+2026-05-21 10:10:54 - Browser launched successfully
+2026-05-21 10:10:56 - Initialized page: WellnessPage
+2026-05-21 10:11:06 - Initializing Browser...
+2026-05-21 10:11:06 - Execution Env: local
+2026-05-21 10:11:06 - Browser: chrome
+2026-05-21 10:11:06 - Running tests in LOCAL mode
+2026-05-21 10:11:09 - Applying browser settings
+2026-05-21 10:11:09 - Browser launched successfully
+2026-05-21 10:11:11 - Initialized page: WellnessPage
+2026-05-21 10:12:39 - Initializing Browser...
+2026-05-21 10:12:39 - Loading config.properties
+2026-05-21 10:12:40 - Execution Env: local
+2026-05-21 10:12:40 - Browser: chrome
+2026-05-21 10:12:40 - Running tests in LOCAL mode
+2026-05-21 10:12:43 - Applying browser settings
+2026-05-21 10:12:44 - Browser launched successfully
+2026-05-21 10:12:46 - Initialized page: HospitalsPage
+2026-05-21 10:13:04 - Initializing Browser...
+2026-05-21 10:13:04 - Execution Env: local
+2026-05-21 10:13:04 - Browser: chrome
+2026-05-21 10:13:04 - Running tests in LOCAL mode
+2026-05-21 10:13:08 - Applying browser settings
+2026-05-21 10:13:08 - Browser launched successfully
+2026-05-21 10:13:10 - Initialized page: HospitalsPage
+2026-05-21 10:13:13 - Initializing Browser...
+2026-05-21 10:13:13 - Execution Env: local
+2026-05-21 10:13:13 - Browser: chrome
+2026-05-21 10:13:13 - Running tests in LOCAL mode
+2026-05-21 10:13:16 - Applying browser settings
+2026-05-21 10:13:17 - Browser launched successfully
+2026-05-21 10:13:19 - Initialized page: HospitalsPage
+2026-05-21 10:13:22 - Initializing Browser...
+2026-05-21 10:13:22 - Execution Env: local
+2026-05-21 10:13:22 - Browser: chrome
+2026-05-21 10:13:22 - Running tests in LOCAL mode
+2026-05-21 10:13:26 - Applying browser settings
+2026-05-21 10:13:26 - Browser launched successfully
+2026-05-21 10:13:27 - Initializing Diagnostics Page
+2026-05-21 10:13:27 - Initialized page: DiagnosticsPage
+2026-05-21 10:13:27 - DiagnosticsPage initialized
+2026-05-21 10:13:27 - Scrolling to diagnostics section
+2026-05-21 10:13:27 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 10:13:34 - Waiting for Top Cities section to be visible
+2026-05-21 10:13:34 - Extracting Top Cities list
+2026-05-21 10:13:34 - City found: Bangalore
+2026-05-21 10:13:34 - City found: Delhi
+2026-05-21 10:13:34 - City found: Mumbai
+2026-05-21 10:13:34 - City found: Chennai
+2026-05-21 10:13:34 - City found: Hyderabad
+2026-05-21 10:13:34 - City found: Kolkata
+2026-05-21 10:13:34 - City found: Pune
+2026-05-21 10:13:34 - City found: Ahmedabad
+2026-05-21 10:13:34 - Total cities extracted: 8
+2026-05-21 10:13:38 - Initializing Browser...
+2026-05-21 10:13:38 - Execution Env: local
+2026-05-21 10:13:38 - Browser: chrome
+2026-05-21 10:13:38 - Running tests in LOCAL mode
+2026-05-21 10:13:41 - Applying browser settings
+2026-05-21 10:13:41 - Browser launched successfully
+2026-05-21 10:13:43 - Initialized page: WellnessPage
+2026-05-21 10:13:52 - Initializing Browser...
+2026-05-21 10:13:52 - Execution Env: local
+2026-05-21 10:13:52 - Browser: chrome
+2026-05-21 10:13:52 - Running tests in LOCAL mode
+2026-05-21 10:13:56 - Applying browser settings
+2026-05-21 10:13:56 - Browser launched successfully
+2026-05-21 10:13:58 - Initialized page: WellnessPage
+2026-05-21 10:14:22 - Initializing Browser...
+2026-05-21 10:14:22 - Loading config.properties
+2026-05-21 10:14:22 - Execution Env: local
+2026-05-21 10:14:22 - Browser: chrome
+2026-05-21 10:14:22 - Running tests in LOCAL mode
+2026-05-21 10:14:26 - Applying browser settings
+2026-05-21 10:14:26 - Browser launched successfully
+2026-05-21 10:14:28 - Initialized page: WellnessPage
+2026-05-21 10:14:39 - Initializing Browser...
+2026-05-21 10:14:39 - Execution Env: local
+2026-05-21 10:14:39 - Browser: chrome
+2026-05-21 10:14:39 - Running tests in LOCAL mode
+2026-05-21 10:14:42 - Applying browser settings
+2026-05-21 10:14:42 - Browser launched successfully
+2026-05-21 10:14:44 - Initialized page: WellnessPage
+2026-05-21 10:24:46 - Initializing Browser...
+2026-05-21 10:24:46 - Loading config.properties
+2026-05-21 10:24:46 - Execution Env: local
+2026-05-21 10:24:46 - Browser: chrome
+2026-05-21 10:24:46 - Running tests in LOCAL mode
+2026-05-21 10:24:50 - Applying browser settings
+2026-05-21 10:24:50 - Browser launched successfully
+2026-05-21 10:24:52 - Initialized page: HospitalsPage
+2026-05-21 10:25:08 - Initializing Browser...
+2026-05-21 10:25:08 - Execution Env: local
+2026-05-21 10:25:08 - Browser: chrome
+2026-05-21 10:25:08 - Running tests in LOCAL mode
+2026-05-21 10:25:12 - Applying browser settings
+2026-05-21 10:25:12 - Browser launched successfully
+2026-05-21 10:25:14 - Initialized page: HospitalsPage
+2026-05-21 10:25:16 - Initializing Browser...
+2026-05-21 10:25:16 - Execution Env: local
+2026-05-21 10:25:16 - Browser: chrome
+2026-05-21 10:25:16 - Running tests in LOCAL mode
+2026-05-21 10:25:20 - Applying browser settings
+2026-05-21 10:25:20 - Browser launched successfully
+2026-05-21 10:25:21 - Initialized page: HospitalsPage
+2026-05-21 10:27:04 - Initializing Browser...
+2026-05-21 10:27:04 - Loading config.properties
+2026-05-21 10:27:04 - Execution Env: local
+2026-05-21 10:27:04 - Browser: chrome
+2026-05-21 10:27:04 - Running tests in LOCAL mode
+2026-05-21 10:27:08 - Applying browser settings
+2026-05-21 10:27:08 - Browser launched successfully
+2026-05-21 10:27:10 - Initialized page: HospitalsPage
+2026-05-21 10:27:27 - Initializing Browser...
+2026-05-21 10:27:27 - Execution Env: local
+2026-05-21 10:27:27 - Browser: chrome
+2026-05-21 10:27:27 - Running tests in LOCAL mode
+2026-05-21 10:27:31 - Applying browser settings
+2026-05-21 10:27:31 - Browser launched successfully
+2026-05-21 10:27:33 - Initialized page: HospitalsPage
+2026-05-21 10:27:35 - Initializing Browser...
+2026-05-21 10:27:35 - Execution Env: local
+2026-05-21 10:27:36 - Browser: chrome
+2026-05-21 10:27:36 - Running tests in LOCAL mode
+2026-05-21 10:27:39 - Applying browser settings
+2026-05-21 10:27:39 - Browser launched successfully
+2026-05-21 10:27:40 - Initialized page: HospitalsPage
+2026-05-21 10:33:07 - Initializing Browser...
+2026-05-21 10:33:07 - Loading config.properties
+2026-05-21 10:33:07 - Execution Env: local
+2026-05-21 10:33:07 - Browser: chrome
+2026-05-21 10:33:07 - Running tests in LOCAL mode
+2026-05-21 10:33:11 - Applying browser settings
+2026-05-21 10:33:11 - Browser launched successfully
+2026-05-21 10:33:13 - Initialized page: HospitalsPage
+2026-05-21 10:33:29 - Initializing Browser...
+2026-05-21 10:33:29 - Execution Env: local
+2026-05-21 10:33:29 - Browser: chrome
+2026-05-21 10:33:29 - Running tests in LOCAL mode
+2026-05-21 10:33:32 - Applying browser settings
+2026-05-21 10:33:33 - Browser launched successfully
+2026-05-21 10:33:34 - Initialized page: HospitalsPage
+2026-05-21 10:33:37 - Initializing Browser...
+2026-05-21 10:33:37 - Execution Env: local
+2026-05-21 10:33:37 - Browser: chrome
+2026-05-21 10:33:37 - Running tests in LOCAL mode
+2026-05-21 10:33:41 - Applying browser settings
+2026-05-21 10:33:41 - Browser launched successfully
+2026-05-21 10:33:42 - Initialized page: HospitalsPage
+2026-05-21 10:35:22 - Initializing Browser...
+2026-05-21 10:35:22 - Loading config.properties
+2026-05-21 10:35:22 - Execution Env: local
+2026-05-21 10:35:22 - Browser: chrome
+2026-05-21 10:35:22 - Running tests in LOCAL mode
+2026-05-21 10:35:26 - Applying browser settings
+2026-05-21 10:35:26 - Browser launched successfully
+2026-05-21 10:35:29 - Initialized page: HospitalsPage
+2026-05-21 10:35:44 - Initializing Browser...
+2026-05-21 10:35:44 - Execution Env: local
+2026-05-21 10:35:44 - Browser: chrome
+2026-05-21 10:35:44 - Running tests in LOCAL mode
+2026-05-21 10:35:48 - Applying browser settings
+2026-05-21 10:35:48 - Browser launched successfully
+2026-05-21 10:35:52 - Initialized page: HospitalsPage
+2026-05-21 10:35:55 - Initializing Browser...
+2026-05-21 10:35:55 - Execution Env: local
+2026-05-21 10:35:55 - Browser: chrome
+2026-05-21 10:35:55 - Running tests in LOCAL mode
+2026-05-21 10:35:59 - Applying browser settings
+2026-05-21 10:35:59 - Browser launched successfully
+2026-05-21 10:36:02 - Initialized page: HospitalsPage
+2026-05-21 10:39:26 - Initializing Browser...
+2026-05-21 10:39:26 - Loading config.properties
+2026-05-21 10:39:26 - Execution Env: local
+2026-05-21 10:39:26 - Browser: chrome
+2026-05-21 10:39:26 - Running tests in LOCAL mode
+2026-05-21 10:39:31 - Applying browser settings
+2026-05-21 10:39:31 - Browser launched successfully
+2026-05-21 10:39:33 - Initialized page: HospitalsPage
+2026-05-21 10:39:49 - Initializing Browser...
+2026-05-21 10:39:49 - Execution Env: local
+2026-05-21 10:39:49 - Browser: chrome
+2026-05-21 10:39:49 - Running tests in LOCAL mode
+2026-05-21 10:39:52 - Applying browser settings
+2026-05-21 10:39:53 - Browser launched successfully
+2026-05-21 10:40:00 - Initialized page: HospitalsPage
+2026-05-21 10:40:03 - Initializing Browser...
+2026-05-21 10:40:03 - Execution Env: local
+2026-05-21 10:40:03 - Browser: chrome
+2026-05-21 10:40:03 - Running tests in LOCAL mode
+2026-05-21 10:40:07 - Applying browser settings
+2026-05-21 10:40:07 - Browser launched successfully
+2026-05-21 10:40:13 - Initialized page: HospitalsPage
+2026-05-21 10:44:58 - Initializing Browser...
+2026-05-21 10:44:58 - Loading config.properties
+2026-05-21 10:44:58 - Execution Env: local
+2026-05-21 10:44:58 - Browser: chrome
+2026-05-21 10:44:58 - Running tests in LOCAL mode
+2026-05-21 10:45:03 - Applying browser settings
+2026-05-21 10:45:03 - Browser launched successfully
+2026-05-21 10:45:10 - Initialized page: HospitalsPage
+2026-05-21 10:45:31 - Initializing Browser...
+2026-05-21 10:45:31 - Execution Env: local
+2026-05-21 10:45:31 - Browser: chrome
+2026-05-21 10:45:31 - Running tests in LOCAL mode
+2026-05-21 10:45:35 - Applying browser settings
+2026-05-21 10:45:35 - Browser launched successfully
+2026-05-21 10:45:37 - Initialized page: HospitalsPage
+2026-05-21 10:45:41 - Initializing Browser...
+2026-05-21 10:45:41 - Execution Env: local
+2026-05-21 10:45:41 - Browser: chrome
+2026-05-21 10:45:41 - Running tests in LOCAL mode
+2026-05-21 10:45:44 - Applying browser settings
+2026-05-21 10:45:44 - Browser launched successfully
+2026-05-21 10:45:48 - Initialized page: HospitalsPage
+2026-05-21 11:37:58 - Initializing Browser...
+2026-05-21 11:37:58 - Loading config.properties
+2026-05-21 11:37:58 - Execution Env: local
+2026-05-21 11:37:58 - Browser: chrome
+2026-05-21 11:37:58 - Running tests in LOCAL mode
+2026-05-21 11:38:04 - Applying browser settings
+2026-05-21 11:38:04 - Browser launched successfully
+2026-05-21 11:47:08 - Initializing Browser...
+2026-05-21 11:47:08 - Loading config.properties
+2026-05-21 11:47:08 - Execution Env: local
+2026-05-21 11:47:08 - Browser: chrome
+2026-05-21 11:47:08 - Running tests in LOCAL mode
+2026-05-21 11:47:13 - Applying browser settings
+2026-05-21 11:47:13 - Browser launched successfully
+2026-05-21 11:49:45 - Initializing Browser...
+2026-05-21 11:49:45 - Loading config.properties
+2026-05-21 11:49:45 - Execution Env: local
+2026-05-21 11:49:45 - Browser: chrome
+2026-05-21 11:49:45 - Running tests in LOCAL mode
+2026-05-21 11:49:50 - Applying browser settings
+2026-05-21 11:49:50 - Browser launched successfully
+2026-05-21 12:23:51 - Initializing Browser...
+2026-05-21 12:23:51 - Loading config.properties
+2026-05-21 12:23:51 - Execution Env: local
+2026-05-21 12:23:51 - Browser: chrome
+2026-05-21 12:23:51 - Running tests in LOCAL mode
+2026-05-21 12:23:55 - Applying browser settings
+2026-05-21 12:23:55 - Browser launched successfully
+2026-05-21 12:30:29 - Initializing Browser...
+2026-05-21 12:30:29 - Loading config.properties
+2026-05-21 12:30:29 - Execution Env: local
+2026-05-21 12:30:29 - Browser: chrome
+2026-05-21 12:30:29 - Running tests in LOCAL mode
+2026-05-21 12:30:33 - Applying browser settings
+2026-05-21 12:30:34 - Browser launched successfully
+2026-05-21 13:55:41 - Initializing Browser...
+2026-05-21 13:55:41 - Loading config.properties
+2026-05-21 13:55:41 - Execution Env: local
+2026-05-21 13:55:41 - Browser: chrome
+2026-05-21 13:55:41 - Running tests in LOCAL mode
+2026-05-21 13:55:48 - Applying browser settings
+2026-05-21 13:55:48 - Browser launched successfully
+2026-05-21 13:59:25 - Initializing Browser...
+2026-05-21 13:59:25 - Loading config.properties
+2026-05-21 13:59:25 - Execution Env: local
+2026-05-21 13:59:25 - Browser: chrome
+2026-05-21 13:59:25 - Running tests in LOCAL mode
+2026-05-21 13:59:29 - Applying browser settings
+2026-05-21 13:59:30 - Browser launched successfully
+2026-05-21 14:05:49 - Initializing Browser...
+2026-05-21 14:05:49 - Loading config.properties
+2026-05-21 14:05:49 - Execution Env: local
+2026-05-21 14:05:49 - Browser: chrome
+2026-05-21 14:05:49 - Running tests in LOCAL mode
+2026-05-21 14:05:54 - Applying browser settings
+2026-05-21 14:05:54 - Browser launched successfully
+2026-05-21 14:29:40 - Initializing Browser...
+2026-05-21 14:29:40 - Loading config.properties
+2026-05-21 14:29:40 - Execution Env: local
+2026-05-21 14:29:40 - Browser: chrome
+2026-05-21 14:29:40 - Running tests in LOCAL mode
+2026-05-21 14:29:45 - Applying browser settings
+2026-05-21 14:29:45 - Browser launched successfully
+2026-05-21 14:33:28 - Initializing Browser...
+2026-05-21 14:33:28 - Loading config.properties
+2026-05-21 14:33:28 - Execution Env: local
+2026-05-21 14:33:28 - Browser: chrome
+2026-05-21 14:33:28 - Running tests in LOCAL mode
+2026-05-21 14:33:33 - Applying browser settings
+2026-05-21 14:33:33 - Browser launched successfully
+2026-05-21 14:42:25 - Initialized page: WellnessPage
+2026-05-21 14:42:43 - Initialized page: WellnessPage
+2026-05-21 14:50:31 - Initialized page: HospitalsPage
+2026-05-21 14:50:56 - Initializing Diagnostics Page
+2026-05-21 14:50:56 - Initialized page: DiagnosticsPage
+2026-05-21 14:50:56 - DiagnosticsPage initialized
+2026-05-21 14:50:56 - Scrolling to diagnostics section
+2026-05-21 14:50:56 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 14:51:02 - Waiting for Top Cities section to be visible
+2026-05-21 14:51:03 - Extracting Top Cities list
+2026-05-21 14:51:03 - City found: Bangalore
+2026-05-21 14:51:03 - City found: Delhi
+2026-05-21 14:51:03 - City found: Mumbai
+2026-05-21 14:51:03 - City found: Chennai
+2026-05-21 14:51:03 - City found: Hyderabad
+2026-05-21 14:51:03 - City found: Kolkata
+2026-05-21 14:51:03 - City found: Pune
+2026-05-21 14:51:03 - City found: Ahmedabad
+2026-05-21 14:51:03 - Total cities extracted: 8
+2026-05-21 14:51:13 - Initialized page: WellnessPage
+2026-05-21 14:51:30 - Initialized page: WellnessPage
+2026-05-21 14:55:35 - Initialized page: HospitalsPage
+2026-05-21 14:56:02 - Initializing Diagnostics Page
+2026-05-21 14:56:02 - Initialized page: DiagnosticsPage
+2026-05-21 14:56:02 - DiagnosticsPage initialized
+2026-05-21 14:56:02 - Scrolling to diagnostics section
+2026-05-21 14:56:03 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 14:56:08 - Waiting for Top Cities section to be visible
+2026-05-21 14:56:08 - Extracting Top Cities list
+2026-05-21 14:56:08 - City found: Bangalore
+2026-05-21 14:56:08 - City found: Delhi
+2026-05-21 14:56:08 - City found: Mumbai
+2026-05-21 14:56:08 - City found: Chennai
+2026-05-21 14:56:08 - City found: Hyderabad
+2026-05-21 14:56:08 - City found: Kolkata
+2026-05-21 14:56:08 - City found: Pune
+2026-05-21 14:56:08 - City found: Ahmedabad
+2026-05-21 14:56:08 - Total cities extracted: 8
+2026-05-21 14:56:18 - Initialized page: WellnessPage
+2026-05-21 14:56:38 - Initialized page: WellnessPage
+2026-05-21 14:58:40 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 14:58:40 - Initialized page: HospitalsPage
+2026-05-21 14:59:05 - Waiting for Top Cities section to be visible
+2026-05-21 15:03:32 - Initializing Diagnostics Page
+2026-05-21 15:03:32 - Initialized page: DiagnosticsPage
+2026-05-21 15:03:32 - DiagnosticsPage initialized
+2026-05-21 15:03:32 - Scrolling to diagnostics section
+2026-05-21 15:03:33 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 15:39:16 - Initialized page: HospitalsPage
+2026-05-21 15:39:50 - Initializing Diagnostics Page
+2026-05-21 15:39:50 - Initialized page: DiagnosticsPage
+2026-05-21 15:39:50 - DiagnosticsPage initialized
+2026-05-21 15:39:50 - Scrolling to diagnostics section
+2026-05-21 15:39:51 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 15:39:56 - Waiting for Top Cities section to be visible
+2026-05-21 15:39:57 - Extracting Top Cities list
+2026-05-21 15:39:57 - City found: Bangalore
+2026-05-21 15:39:57 - City found: Delhi
+2026-05-21 15:39:57 - City found: Mumbai
+2026-05-21 15:39:57 - City found: Chennai
+2026-05-21 15:39:57 - City found: Hyderabad
+2026-05-21 15:39:57 - City found: Kolkata
+2026-05-21 15:39:57 - City found: Pune
+2026-05-21 15:39:57 - City found: Ahmedabad
+2026-05-21 15:39:57 - Total cities extracted: 8
+2026-05-21 15:40:08 - Initialized page: WellnessPage
+2026-05-21 15:40:25 - Initialized page: WellnessPage
+2026-05-21 15:45:22 - Initialized page: HospitalsPage
+2026-05-21 15:45:49 - Initializing Diagnostics Page
+2026-05-21 15:45:49 - Initialized page: DiagnosticsPage
+2026-05-21 15:45:49 - DiagnosticsPage initialized
+2026-05-21 15:45:49 - Scrolling to diagnostics section
+2026-05-21 15:45:49 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 15:45:54 - Waiting for Top Cities section to be visible
+2026-05-21 15:46:01 - Extracting Top Cities list
+2026-05-21 15:46:01 - City found: Bangalore
+2026-05-21 15:46:02 - City found: Delhi
+2026-05-21 15:46:02 - City found: Mumbai
+2026-05-21 15:46:02 - City found: Chennai
+2026-05-21 15:46:02 - City found: Hyderabad
+2026-05-21 15:46:02 - City found: Kolkata
+2026-05-21 15:46:02 - City found: Pune
+2026-05-21 15:46:02 - City found: Ahmedabad
+2026-05-21 15:46:02 - Total cities extracted: 8
+2026-05-21 15:46:11 - Initialized page: WellnessPage
+2026-05-21 15:46:27 - Initialized page: WellnessPage
+2026-05-21 15:56:49 - Initialized page: HospitalsPage
+2026-05-21 15:57:16 - Initializing Diagnostics Page
+2026-05-21 15:57:16 - Initialized page: DiagnosticsPage
+2026-05-21 15:57:16 - DiagnosticsPage initialized
+2026-05-21 15:57:16 - Scrolling to diagnostics section
+2026-05-21 15:57:16 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 15:57:21 - Waiting for Top Cities section to be visible
+2026-05-21 15:57:21 - Extracting Top Cities list
+2026-05-21 15:57:22 - City found: Bangalore
+2026-05-21 15:57:22 - City found: Delhi
+2026-05-21 15:57:22 - City found: Mumbai
+2026-05-21 15:57:22 - City found: Chennai
+2026-05-21 15:57:22 - City found: Hyderabad
+2026-05-21 15:57:22 - City found: Kolkata
+2026-05-21 15:57:22 - City found: Pune
+2026-05-21 15:57:22 - City found: Ahmedabad
+2026-05-21 15:57:22 - Total cities extracted: 8
+2026-05-21 15:57:32 - Initialized page: WellnessPage
+2026-05-21 15:57:51 - Initialized page: WellnessPage
+2026-05-21 18:07:36 - Initialized page: HospitalsPage
+2026-05-21 18:07:36 - Initializing Diagnostics Page
+2026-05-21 18:07:36 - Initialized page: DiagnosticsPage
+2026-05-21 18:07:36 - DiagnosticsPage initialized
+2026-05-21 18:07:36 - Scrolling to diagnostics section
+2026-05-21 18:07:37 - Initialized page: WellnessPage
+2026-05-21 18:07:37 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 18:07:37 - Initialized page: WellnessPage
+2026-05-21 18:07:50 - Waiting for Top Cities section to be visible
+2026-05-21 18:07:51 - Extracting Top Cities list
+2026-05-21 18:07:52 - City found: Bangalore
+2026-05-21 18:07:52 - City found: Delhi
+2026-05-21 18:07:52 - City found: Mumbai
+2026-05-21 18:07:52 - City found: Chennai
+2026-05-21 18:07:52 - City found: Hyderabad
+2026-05-21 18:07:53 - City found: Kolkata
+2026-05-21 18:07:53 - City found: Pune
+2026-05-21 18:07:53 - City found: Ahmedabad
+2026-05-21 18:07:53 - Total cities extracted: 8
+2026-05-21 18:17:25 - Initialized page: HospitalsPage
+2026-05-21 18:17:50 - Initializing Diagnostics Page
+2026-05-21 18:17:50 - Initialized page: DiagnosticsPage
+2026-05-21 18:17:50 - DiagnosticsPage initialized
+2026-05-21 18:17:50 - Scrolling to diagnostics section
+2026-05-21 18:17:51 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 18:17:57 - Waiting for Top Cities section to be visible
+2026-05-21 18:17:57 - Extracting Top Cities list
+2026-05-21 18:17:57 - City found: Bangalore
+2026-05-21 18:17:57 - City found: Delhi
+2026-05-21 18:17:57 - City found: Mumbai
+2026-05-21 18:17:57 - City found: Chennai
+2026-05-21 18:17:57 - City found: Hyderabad
+2026-05-21 18:17:57 - City found: Kolkata
+2026-05-21 18:17:57 - City found: Pune
+2026-05-21 18:17:57 - City found: Ahmedabad
+2026-05-21 18:17:57 - Total cities extracted: 8
+2026-05-21 18:18:05 - Initialized page: WellnessPage
+2026-05-21 18:18:22 - Initialized page: WellnessPage
+2026-05-21 18:28:25 - Initialized page: HospitalsPage
+2026-05-21 18:28:42 - Initializing Diagnostics Page
+2026-05-21 18:28:42 - Initialized page: DiagnosticsPage
+2026-05-21 18:28:42 - DiagnosticsPage initialized
+2026-05-21 18:28:42 - Scrolling to diagnostics section
+2026-05-21 18:28:42 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 18:28:46 - Waiting for Top Cities section to be visible
+2026-05-21 18:28:47 - Extracting Top Cities list
+2026-05-21 18:28:47 - City found: Bangalore
+2026-05-21 18:28:47 - City found: Delhi
+2026-05-21 18:28:47 - City found: Mumbai
+2026-05-21 18:28:47 - City found: Chennai
+2026-05-21 18:28:47 - City found: Hyderabad
+2026-05-21 18:28:47 - City found: Kolkata
+2026-05-21 18:28:47 - City found: Pune
+2026-05-21 18:28:47 - City found: Ahmedabad
+2026-05-21 18:28:47 - Total cities extracted: 8
+2026-05-21 18:28:47 - Initialized page: WellnessPage
+2026-05-21 18:28:58 - Initialized page: WellnessPage
+2026-05-21 18:30:20 - Initialized page: WellnessPage
+2026-05-21 18:30:20 - Initialized page: HospitalsPage
+2026-05-21 18:30:22 - Initialized page: WellnessPage
+2026-05-21 18:30:22 - Initializing Diagnostics Page
+2026-05-21 18:30:22 - Initialized page: DiagnosticsPage
+2026-05-21 18:30:22 - DiagnosticsPage initialized
+2026-05-21 18:30:22 - Scrolling to diagnostics section
+2026-05-21 18:30:23 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 18:30:34 - Waiting for Top Cities section to be visible
+2026-05-21 18:30:35 - Extracting Top Cities list
+2026-05-21 18:30:35 - City found: Bangalore
+2026-05-21 18:30:35 - City found: Delhi
+2026-05-21 18:30:35 - City found: Mumbai
+2026-05-21 18:30:35 - City found: Chennai
+2026-05-21 18:30:35 - City found: Hyderabad
+2026-05-21 18:30:35 - City found: Kolkata
+2026-05-21 18:30:35 - City found: Pune
+2026-05-21 18:30:35 - City found: Ahmedabad
+2026-05-21 18:30:35 - Total cities extracted: 8
+2026-05-21 19:47:44 - Initialized page: HospitalsPage
+2026-05-21 19:48:09 - Initializing Diagnostics Page
+2026-05-21 19:48:09 - Initialized page: DiagnosticsPage
+2026-05-21 19:48:09 - DiagnosticsPage initialized
+2026-05-21 19:48:09 - Scrolling to diagnostics section
+2026-05-21 19:48:09 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 19:48:15 - Waiting for Top Cities section to be visible
+2026-05-21 19:48:15 - Extracting Top Cities list
+2026-05-21 19:48:15 - City found: Bangalore
+2026-05-21 19:48:15 - City found: Delhi
+2026-05-21 19:48:15 - City found: Mumbai
+2026-05-21 19:48:15 - City found: Chennai
+2026-05-21 19:48:16 - City found: Hyderabad
+2026-05-21 19:48:16 - City found: Kolkata
+2026-05-21 19:48:16 - City found: Pune
+2026-05-21 19:48:16 - City found: Ahmedabad
+2026-05-21 19:48:16 - Total cities extracted: 8
+2026-05-21 19:48:27 - Initialized page: WellnessPage
+2026-05-21 19:48:44 - Initialized page: WellnessPage
+2026-05-21 19:50:05 - Initialized page: WellnessPage
+2026-05-21 19:50:05 - Initialized page: HospitalsPage
+2026-05-21 19:50:05 - Initializing Diagnostics Page
+2026-05-21 19:50:05 - Initialized page: DiagnosticsPage
+2026-05-21 19:50:05 - DiagnosticsPage initialized
+2026-05-21 19:50:05 - Scrolling to diagnostics section
+2026-05-21 19:50:05 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 19:50:05 - Initialized page: WellnessPage
+2026-05-21 19:50:12 - Waiting for Top Cities section to be visible
+2026-05-21 19:50:12 - Extracting Top Cities list
+2026-05-21 19:50:13 - City found: Bangalore
+2026-05-21 19:50:13 - City found: Delhi
+2026-05-21 19:50:13 - City found: Mumbai
+2026-05-21 19:50:13 - City found: Chennai
+2026-05-21 19:50:13 - City found: Hyderabad
+2026-05-21 19:50:14 - City found: Kolkata
+2026-05-21 19:50:14 - City found: Pune
+2026-05-21 19:50:14 - City found: Ahmedabad
+2026-05-21 19:50:14 - Total cities extracted: 8
+2026-05-21 19:54:49 - Initialized page: HospitalsPage
+2026-05-21 19:55:16 - Initializing Diagnostics Page
+2026-05-21 19:55:16 - Initialized page: DiagnosticsPage
+2026-05-21 19:55:16 - DiagnosticsPage initialized
+2026-05-21 19:55:16 - Scrolling to diagnostics section
+2026-05-21 19:55:16 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 19:55:21 - Waiting for Top Cities section to be visible
+2026-05-21 19:55:22 - Extracting Top Cities list
+2026-05-21 19:55:22 - City found: Bangalore
+2026-05-21 19:55:22 - City found: Delhi
+2026-05-21 19:55:22 - City found: Mumbai
+2026-05-21 19:55:22 - City found: Chennai
+2026-05-21 19:55:22 - City found: Hyderabad
+2026-05-21 19:55:22 - City found: Kolkata
+2026-05-21 19:55:22 - City found: Pune
+2026-05-21 19:55:22 - City found: Ahmedabad
+2026-05-21 19:55:22 - Total cities extracted: 8
+2026-05-21 19:55:31 - Initialized page: WellnessPage
+2026-05-21 19:55:48 - Initialized page: WellnessPage
+2026-05-21 20:05:39 - Initialized page: HospitalsPage
+2026-05-21 20:06:07 - Initializing Diagnostics Page
+2026-05-21 20:06:07 - Initialized page: DiagnosticsPage
+2026-05-21 20:06:07 - DiagnosticsPage initialized
+2026-05-21 20:06:07 - Scrolling to diagnostics section
+2026-05-21 20:06:07 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 20:06:12 - Waiting for Top Cities section to be visible
+2026-05-21 20:06:13 - Extracting Top Cities list
+2026-05-21 20:06:13 - City found: Bangalore
+2026-05-21 20:06:13 - City found: Delhi
+2026-05-21 20:06:13 - City found: Mumbai
+2026-05-21 20:06:13 - City found: Chennai
+2026-05-21 20:06:13 - City found: Hyderabad
+2026-05-21 20:06:13 - City found: Kolkata
+2026-05-21 20:06:13 - City found: Pune
+2026-05-21 20:06:13 - City found: Ahmedabad
+2026-05-21 20:06:13 - Total cities extracted: 8
+2026-05-21 20:06:22 - Initialized page: WellnessPage
+2026-05-21 20:06:43 - Initialized page: WellnessPage
+2026-05-21 20:11:32 - Initialized page: HospitalsPage
+2026-05-21 20:15:52 - Initialized page: HospitalsPage
+2026-05-21 20:20:03 - Opening application and setting location: Bangalore
+2026-05-21 20:20:03 - Initialized page: HospitalsPage
+2026-05-21 20:20:04 - Searching hospital: Hospital
+2026-05-21 20:20:16 - Filtering hospitals
+2026-05-21 20:20:20 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-21 20:20:20 - Hospital: 2. MIOT International Hospital
+2026-05-21 20:20:20 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-21 20:20:20 - Hospital: 4. Annai Arul Hospital
+2026-05-21 20:20:20 - Hospital: 5. Apollo Cradle
+2026-05-21 20:20:20 - Hospital: 6. Iswarya Fertility Centre
+2026-05-21 20:20:20 - Hospital: 7. Cloudnine Hospital
+2026-05-21 20:20:20 - Hospital: 8. Motherhood Hospital
+2026-05-21 20:20:20 - Hospital: 9. Shadithya Hospital
+2026-05-21 20:20:30 - Initializing Diagnostics Page
+2026-05-21 20:20:30 - Initialized page: DiagnosticsPage
+2026-05-21 20:20:30 - DiagnosticsPage initialized
+2026-05-21 20:20:30 - Scrolling to diagnostics section
+2026-05-21 20:20:30 - Clicking on 'Book Diagnostic Tests'
+2026-05-21 20:20:36 - Waiting for Top Cities section to be visible
+2026-05-21 20:20:36 - Extracting Top Cities list
+2026-05-21 20:20:36 - City found: Bangalore
+2026-05-21 20:20:36 - City found: Delhi
+2026-05-21 20:20:36 - City found: Mumbai
+2026-05-21 20:20:36 - City found: Chennai
+2026-05-21 20:20:36 - City found: Hyderabad
+2026-05-21 20:20:36 - City found: Kolkata
+2026-05-21 20:20:36 - City found: Pune
+2026-05-21 20:20:36 - City found: Ahmedabad
+2026-05-21 20:20:36 - Total cities extracted: 8
+2026-05-21 20:20:48 - Initialized page: WellnessPage
+2026-05-21 20:21:05 - Initialized page: WellnessPage
+2026-05-21 20:22:19 - Opening application and setting location: Bangalore
+2026-05-21 20:22:19 - Initialized page: HospitalsPage
+2026-05-21 20:22:21 - Searching hospital: Hospital
+2026-05-21 20:22:31 - Filtering hospitals
+2026-05-21 20:22:35 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-21 20:22:35 - Hospital: 2. MIOT International Hospital
+2026-05-21 20:22:35 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-21 20:22:35 - Hospital: 4. Annai Arul Hospital
+2026-05-21 20:22:35 - Hospital: 5. Apollo Cradle
+2026-05-21 20:22:35 - Hospital: 6. Iswarya Fertility Centre
+2026-05-21 20:22:35 - Hospital: 7. Cloudnine Hospital
+2026-05-21 20:22:35 - Hospital: 8. Motherhood Hospital
+2026-05-21 20:22:35 - Hospital: 9. Shadithya Hospital

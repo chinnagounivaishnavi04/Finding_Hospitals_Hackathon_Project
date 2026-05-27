@@ -1037,3 +1037,276 @@
 2026-05-21 20:22:35 - Hospital: 7. Cloudnine Hospital
 2026-05-21 20:22:35 - Hospital: 8. Motherhood Hospital
 2026-05-21 20:22:35 - Hospital: 9. Shadithya Hospital
+2026-05-22 09:52:45 - Opening application and setting location: Bangalore
+2026-05-22 09:52:45 - Initialized page: HospitalsPage
+2026-05-22 09:52:45 - Searching hospital: Hospital
+2026-05-22 09:52:57 - Filtering hospitals
+2026-05-22 09:53:00 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-22 09:53:00 - Hospital: 2. MIOT International Hospital
+2026-05-22 09:53:00 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-22 09:53:00 - Hospital: 4. Annai Arul Hospital
+2026-05-22 09:53:00 - Hospital: 5. Apollo Cradle
+2026-05-22 09:53:00 - Hospital: 6. Iswarya Fertility Centre
+2026-05-22 09:53:00 - Hospital: 7. Cloudnine Hospital
+2026-05-22 09:53:00 - Hospital: 8. Motherhood Hospital
+2026-05-22 09:53:00 - Hospital: 9. Shadithya Hospital
+2026-05-22 09:53:09 - Initializing Diagnostics Page
+2026-05-22 09:53:09 - Initialized page: DiagnosticsPage
+2026-05-22 09:53:09 - DiagnosticsPage initialized
+2026-05-22 09:53:09 - Scrolling to diagnostics section
+2026-05-22 09:53:09 - Clicking on 'Book Diagnostic Tests'
+2026-05-22 09:53:16 - Waiting for Top Cities section to be visible
+2026-05-22 09:53:17 - Extracting Top Cities list
+2026-05-22 09:53:17 - City found: Bangalore
+2026-05-22 09:53:17 - City found: Delhi
+2026-05-22 09:53:17 - City found: Mumbai
+2026-05-22 09:53:17 - City found: Chennai
+2026-05-22 09:53:17 - City found: Hyderabad
+2026-05-22 09:53:17 - City found: Kolkata
+2026-05-22 09:53:17 - City found: Pune
+2026-05-22 09:53:17 - City found: Ahmedabad
+2026-05-22 09:53:17 - Total cities extracted: 8
+2026-05-22 09:53:28 - Initialized page: WellnessPage
+2026-05-22 09:53:47 - Initialized page: WellnessPage
+2026-05-22 11:09:40 - Initialized page: WellnessPage
+2026-05-22 11:09:40 - Initialized page: WellnessPage
+2026-05-22 11:09:40 - Initializing Diagnostics Page
+2026-05-22 11:09:40 - Initialized page: DiagnosticsPage
+2026-05-22 11:09:40 - DiagnosticsPage initialized
+2026-05-22 11:09:40 - Scrolling to diagnostics section
+2026-05-22 11:09:40 - Clicking on 'Book Diagnostic Tests'
+2026-05-22 11:09:40 - Opening application and setting location: Bangalore
+2026-05-22 11:09:41 - Initialized page: HospitalsPage
+2026-05-22 11:09:44 - Searching hospital: Hospital
+2026-05-22 11:09:52 - Waiting for Top Cities section to be visible
+2026-05-22 11:09:53 - Extracting Top Cities list
+2026-05-22 11:09:53 - City found: Bangalore
+2026-05-22 11:09:53 - City found: Delhi
+2026-05-22 11:09:53 - City found: Mumbai
+2026-05-22 11:09:53 - City found: Chennai
+2026-05-22 11:09:53 - City found: Hyderabad
+2026-05-22 11:09:53 - City found: Kolkata
+2026-05-22 11:09:53 - City found: Pune
+2026-05-22 11:09:53 - City found: Ahmedabad
+2026-05-22 11:09:53 - Total cities extracted: 8
+2026-05-22 11:10:08 - Filtering hospitals
+2026-05-22 11:10:11 - Hospital: 1. Dr. Mehta's Hospitals
+2026-05-22 11:10:11 - Hospital: 2. MIOT International Hospital
+2026-05-22 11:10:11 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-22 11:10:11 - Hospital: 4. Annai Arul Hospital
+2026-05-22 11:10:11 - Hospital: 5. Apollo Cradle
+2026-05-22 11:10:11 - Hospital: 6. Iswarya Fertility Centre
+2026-05-22 11:10:11 - Hospital: 7. Cloudnine Hospital
+2026-05-22 11:10:11 - Hospital: 8. Motherhood Hospital
+2026-05-22 11:10:11 - Hospital: 9. Shadithya Hospital
+2026-05-26 09:58:59 - Browser initialization failed: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 146.0.7680.178 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'LTIN731928', ip: '10.112.48.10'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications], binary: C:\Program Files\Google\Chr..., extensions: []}, pageLoadStrategy: eager}]}]
+2026-05-26 09:59:17 - Browser initialization failed: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 146.0.7680.178 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'LTIN731928', ip: '10.112.48.10'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications], binary: C:\Program Files\Google\Chr..., extensions: []}, pageLoadStrategy: eager}]}]
+2026-05-26 09:59:35 - Browser initialization failed: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 146.0.7680.178 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'LTIN731928', ip: '10.112.48.10'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications], binary: C:\Program Files\Google\Chr..., extensions: []}, pageLoadStrategy: eager}]}]
+2026-05-26 09:59:52 - Browser initialization failed: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 146.0.7680.178 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'LTIN731928', ip: '10.112.48.10'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications], binary: C:\Program Files\Google\Chr..., extensions: []}, pageLoadStrategy: eager}]}]
+2026-05-26 10:04:05 - Opening application and setting location: Bangalore
+2026-05-26 10:04:05 - Initialized page: HospitalsPage
+2026-05-26 10:04:06 - Searching hospital: Hospital
+2026-05-26 10:04:20 - Filtering hospitals
+2026-05-26 10:04:23 - Hospital: 1. MIOT International Hospital
+2026-05-26 10:04:23 - Hospital: 2. Dr. Mehta's Hospitals
+2026-05-26 10:04:23 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-26 10:04:23 - Hospital: 4. Annai Arul Hospital
+2026-05-26 10:04:23 - Hospital: 5. Apollo Cradle
+2026-05-26 10:04:23 - Hospital: 6. Iswarya Fertility Centre
+2026-05-26 10:04:23 - Hospital: 7. Cloudnine Hospital
+2026-05-26 10:04:23 - Hospital: 8. Motherhood Hospital
+2026-05-26 10:04:23 - Hospital: 9. Shadithya Hospital
+2026-05-26 10:04:35 - Initializing Diagnostics Page
+2026-05-26 10:04:35 - Initialized page: DiagnosticsPage
+2026-05-26 10:04:35 - DiagnosticsPage initialized
+2026-05-26 10:04:35 - Scrolling to diagnostics section
+2026-05-26 10:04:35 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 10:04:43 - Waiting for Top Cities section to be visible
+2026-05-26 10:04:43 - Extracting Top Cities list
+2026-05-26 10:04:43 - City found: Bangalore
+2026-05-26 10:04:43 - City found: Delhi
+2026-05-26 10:04:43 - City found: Mumbai
+2026-05-26 10:04:43 - City found: Chennai
+2026-05-26 10:04:43 - City found: Hyderabad
+2026-05-26 10:04:43 - City found: Kolkata
+2026-05-26 10:04:43 - City found: Pune
+2026-05-26 10:04:43 - City found: Ahmedabad
+2026-05-26 10:04:43 - Total cities extracted: 8
+2026-05-26 10:04:53 - Initialized page: WellnessPage
+2026-05-26 10:05:21 - Initialized page: WellnessPage
+2026-05-26 10:14:43 - Opening application and setting location: Bangalore
+2026-05-26 10:14:43 - Initialized page: HospitalsPage
+2026-05-26 10:14:45 - Searching hospital: Hospital
+2026-05-26 10:14:54 - Filtering hospitals
+2026-05-26 10:14:57 - Hospital: 1. Hegde Hospital
+2026-05-26 10:14:57 - Hospital: 2. Sri Sai Dental Hospital
+2026-05-26 10:14:57 - Hospital: 3. Manasa Nursing Home
+2026-05-26 10:14:57 - Hospital: 4. SMS ENT And Surgical Clinic
+2026-05-26 10:14:57 - Hospital: 5. Shreya Hospitals
+2026-05-26 10:15:09 - Initializing Diagnostics Page
+2026-05-26 10:15:09 - Initialized page: DiagnosticsPage
+2026-05-26 10:15:09 - DiagnosticsPage initialized
+2026-05-26 10:15:09 - Scrolling to diagnostics section
+2026-05-26 10:15:09 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 10:15:14 - Waiting for Top Cities section to be visible
+2026-05-26 10:15:15 - Extracting Top Cities list
+2026-05-26 10:15:15 - City found: Bangalore
+2026-05-26 10:15:15 - City found: Delhi
+2026-05-26 10:15:15 - City found: Mumbai
+2026-05-26 10:15:15 - City found: Chennai
+2026-05-26 10:15:15 - City found: Hyderabad
+2026-05-26 10:15:15 - City found: Kolkata
+2026-05-26 10:15:15 - City found: Pune
+2026-05-26 10:15:15 - City found: Ahmedabad
+2026-05-26 10:15:15 - Total cities extracted: 8
+2026-05-26 10:15:23 - Initialized page: WellnessPage
+2026-05-26 10:15:39 - Initialized page: WellnessPage
+2026-05-26 10:19:50 - Opening application and setting location: Bangalore
+2026-05-26 10:19:50 - Initialized page: HospitalsPage
+2026-05-26 10:19:52 - Searching hospital: Hospital
+2026-05-26 10:20:02 - Filtering hospitals
+2026-05-26 10:20:06 - Hospital: 1. Hegde Hospital
+2026-05-26 10:20:06 - Hospital: 2. Sri Sai Dental Hospital
+2026-05-26 10:20:06 - Hospital: 3. Manasa Nursing Home
+2026-05-26 10:20:06 - Hospital: 4. SMS ENT And Surgical Clinic
+2026-05-26 10:20:06 - Hospital: 5. Shreya Hospitals
+2026-05-26 10:20:15 - Initializing Diagnostics Page
+2026-05-26 10:20:15 - Initialized page: DiagnosticsPage
+2026-05-26 10:20:15 - DiagnosticsPage initialized
+2026-05-26 10:20:15 - Scrolling to diagnostics section
+2026-05-26 10:20:16 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 10:20:21 - Waiting for Top Cities section to be visible
+2026-05-26 10:20:22 - Extracting Top Cities list
+2026-05-26 10:20:22 - City found: Bangalore
+2026-05-26 10:20:22 - City found: Delhi
+2026-05-26 10:20:22 - City found: Mumbai
+2026-05-26 10:20:22 - City found: Chennai
+2026-05-26 10:20:22 - City found: Hyderabad
+2026-05-26 10:20:22 - City found: Kolkata
+2026-05-26 10:20:22 - City found: Pune
+2026-05-26 10:20:22 - City found: Ahmedabad
+2026-05-26 10:20:22 - Total cities extracted: 8
+2026-05-26 10:20:30 - Initialized page: WellnessPage
+2026-05-26 10:20:46 - Initialized page: WellnessPage
+2026-05-26 10:37:56 - Opening application and setting location: Bangalore
+2026-05-26 10:37:56 - Initialized page: HospitalsPage
+2026-05-26 10:37:58 - Searching hospital: Hospital
+2026-05-26 10:38:08 - Filtering hospitals
+2026-05-26 10:38:11 - Hospital: 1. Hegde Hospital
+2026-05-26 10:38:11 - Hospital: 2. Sri Sai Dental Hospital
+2026-05-26 10:38:11 - Hospital: 3. Manasa Nursing Home
+2026-05-26 10:38:11 - Hospital: 4. SMS ENT And Surgical Clinic
+2026-05-26 10:38:11 - Hospital: 5. Shreya Hospitals
+2026-05-26 10:38:24 - Initializing Diagnostics Page
+2026-05-26 10:38:24 - Initialized page: DiagnosticsPage
+2026-05-26 10:38:24 - DiagnosticsPage initialized
+2026-05-26 10:38:24 - Scrolling to diagnostics section
+2026-05-26 10:38:24 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 10:38:30 - Waiting for Top Cities section to be visible
+2026-05-26 10:38:31 - Extracting Top Cities list
+2026-05-26 10:38:31 - City found: Bangalore
+2026-05-26 10:38:31 - City found: Delhi
+2026-05-26 10:38:31 - City found: Mumbai
+2026-05-26 10:38:31 - City found: Chennai
+2026-05-26 10:38:31 - City found: Hyderabad
+2026-05-26 10:38:31 - City found: Kolkata
+2026-05-26 10:38:31 - City found: Pune
+2026-05-26 10:38:31 - City found: Ahmedabad
+2026-05-26 10:38:31 - Total cities extracted: 8
+2026-05-26 10:38:43 - Initialized page: WellnessPage
+2026-05-26 10:39:01 - Initialized page: WellnessPage
+2026-05-26 10:40:28 - Opening application and setting location: Bangalore
+2026-05-26 10:40:28 - Initialized page: HospitalsPage
+2026-05-26 10:40:29 - Searching hospital: Hospital
+2026-05-26 10:40:40 - Filtering hospitals
+2026-05-26 10:40:43 - Hospital: 1. Hegde Hospital
+2026-05-26 10:40:43 - Hospital: 2. Sri Sai Dental Hospital
+2026-05-26 10:40:43 - Hospital: 3. Manasa Nursing Home
+2026-05-26 10:40:43 - Hospital: 4. SMS ENT And Surgical Clinic
+2026-05-26 10:40:43 - Hospital: 5. Shreya Hospitals
+2026-05-26 10:40:56 - Initializing Diagnostics Page
+2026-05-26 10:40:56 - Initialized page: DiagnosticsPage
+2026-05-26 10:40:56 - DiagnosticsPage initialized
+2026-05-26 10:40:56 - Scrolling to diagnostics section
+2026-05-26 10:40:57 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 10:41:04 - Waiting for Top Cities section to be visible
+2026-05-26 10:41:04 - Extracting Top Cities list
+2026-05-26 10:41:04 - City found: Bangalore
+2026-05-26 10:41:04 - City found: Delhi
+2026-05-26 10:41:04 - City found: Mumbai
+2026-05-26 10:41:04 - City found: Chennai
+2026-05-26 10:41:04 - City found: Hyderabad
+2026-05-26 10:41:04 - City found: Kolkata
+2026-05-26 10:41:04 - City found: Pune
+2026-05-26 10:41:04 - City found: Ahmedabad
+2026-05-26 10:41:04 - Total cities extracted: 8
+2026-05-26 10:41:13 - Initialized page: WellnessPage
+2026-05-26 10:41:30 - Initialized page: WellnessPage
+2026-05-26 11:41:13 - Opening application and setting location: Bangalore
+2026-05-26 11:41:13 - Initialized page: HospitalsPage
+2026-05-26 11:41:14 - Searching hospital: Hospital
+2026-05-26 11:41:26 - Filtering hospitals
+2026-05-26 11:41:31 - Hospital: 1. MIOT International Hospital
+2026-05-26 11:41:31 - Hospital: 2. Dr. Mehta's Hospitals
+2026-05-26 11:41:31 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-26 11:41:31 - Hospital: 4. Annai Arul Hospital
+2026-05-26 11:41:31 - Hospital: 5. Apollo Cradle
+2026-05-26 11:41:31 - Hospital: 6. Iswarya Fertility Centre
+2026-05-26 11:41:31 - Hospital: 7. Cloudnine Hospital
+2026-05-26 11:41:31 - Hospital: 8. Motherhood Hospital
+2026-05-26 11:41:31 - Hospital: 9. Shadithya Hospital
+2026-05-26 11:41:43 - Initializing Diagnostics Page
+2026-05-26 11:41:43 - Initialized page: DiagnosticsPage
+2026-05-26 11:41:43 - DiagnosticsPage initialized
+2026-05-26 11:41:43 - Scrolling to diagnostics section
+2026-05-26 11:41:43 - Clicking on 'Book Diagnostic Tests'
+2026-05-26 11:41:49 - Waiting for Top Cities section to be visible
+2026-05-26 11:41:50 - Extracting Top Cities list
+2026-05-26 11:41:50 - City found: Bangalore
+2026-05-26 11:41:50 - City found: Delhi
+2026-05-26 11:41:50 - City found: Mumbai
+2026-05-26 11:41:50 - City found: Chennai
+2026-05-26 11:41:50 - City found: Hyderabad
+2026-05-26 11:41:50 - City found: Kolkata
+2026-05-26 11:41:50 - City found: Pune
+2026-05-26 11:41:50 - City found: Ahmedabad
+2026-05-26 11:41:50 - Total cities extracted: 8
+2026-05-26 11:42:07 - Initialized page: WellnessPage
+2026-05-26 11:42:28 - Initialized page: WellnessPage
+2026-05-26 11:43:58 - Opening application and setting location: Bangalore
+2026-05-26 11:43:58 - Initialized page: HospitalsPage
+2026-05-26 11:43:59 - Searching hospital: Hospital
+2026-05-26 11:44:08 - Filtering hospitals
+2026-05-26 11:44:12 - Hospital: 1. MIOT International Hospital
+2026-05-26 11:44:12 - Hospital: 2. Dr. Mehta's Hospitals
+2026-05-26 11:44:12 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-26 11:44:12 - Hospital: 4. Annai Arul Hospital
+2026-05-26 11:44:12 - Hospital: 5. Apollo Cradle
+2026-05-26 11:44:12 - Hospital: 6. Iswarya Fertility Centre
+2026-05-26 11:44:12 - Hospital: 7. Cloudnine Hospital
+2026-05-26 11:44:12 - Hospital: 8. Motherhood Hospital
+2026-05-26 11:44:12 - Hospital: 9. Shadithya Hospital

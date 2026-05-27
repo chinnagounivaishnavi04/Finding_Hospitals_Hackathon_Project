@@ -50,13 +50,13 @@ public class WellnessSteps {
         cwv.setEmail(email);
 
         cwv.setScroll();
-        cwv.setOrgele(orgSize);      // ✅ uses selectByValue
+        cwv.setOrgele(orgSize);      //  uses selectByValue
         cwv.setIntrestele(interested);
 
         ScreenshotUtil.captureAndSave(BaseClass.getDriver(), "Row_" + rowNum);
     }
 
-    // ✅ ✅ FIX: ONLY CHECK BUTTON (NO VALIDATION LOGIC)
+    // FIX: ONLY CHECK BUTTON (NO VALIDATION LOGIC)
     @When("the user checks the Schedule button status")
     public void clickScheduleButton() {
 
@@ -74,7 +74,7 @@ public class WellnessSteps {
         }
     }
 
-    // ✅ ✅ FINAL RESULT BASED ONLY ON BUTTON
+    // FINAL RESULT BASED ONLY ON BUTTON
     @Then("the system should record the result in Excel")
     public void writeResultExcel() {
 

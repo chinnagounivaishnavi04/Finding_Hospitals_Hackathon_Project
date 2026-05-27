@@ -27,35 +27,35 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class BaseClass {
 
-    // ✅ THREAD-SAFE DRIVER
+    //  THREAD-SAFE DRIVER
     private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     private static Properties p;
     private static Logger logger = LogManager.getLogger(BaseClass.class);
 
-    // ✅ GET DRIVER
+    //  GET DRIVER
     public static WebDriver getDriver() {
         return driver.get();
     }
 
-    // ✅ SET DRIVER
+    //  SET DRIVER
     public static void setDriver(WebDriver d) {
         driver.set(d);
     }
 
-    // ✅ REMOVE DRIVER (VERY IMPORTANT)
+    //  REMOVE DRIVER (VERY IMPORTANT)
     public static void removeDriver() {
         driver.remove();
     }
 
-    // ✅ INITIALIZE BROWSER
+    //  INITIALIZE BROWSER
     public static WebDriver initializeBrowser() throws IOException {
 
         p = getProperties();
 
         String executionEnv = p.getProperty("execution_env");
 
-        // ✅ dynamic browser support
+        //  dynamic browser support
         String browser = System.getProperty("browser") != null
                 ? System.getProperty("browser")
                 : p.getProperty("browser");
@@ -117,13 +117,13 @@ public class BaseClass {
             throw e;
         }
 
-        // ✅ SET THREAD DRIVER
+        //  SET THREAD DRIVER
         setDriver(d);
 
         if (getDriver() != null) {
 
             getDriver().manage().deleteAllCookies();
-            getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(0)); // ✅ disable implicit
+            getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(0)); //  disable implicit
             getDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
             getDriver().manage().window().maximize();
         }
@@ -131,7 +131,7 @@ public class BaseClass {
         return getDriver();
     }
 
-    // ✅ PROPERTIES
+    //  PROPERTIES
     public static Properties getProperties() throws IOException {
 
         if (p == null) {
@@ -151,7 +151,7 @@ public class BaseClass {
         return p;
     }
 
-    // ✅ LOGGER
+    //  LOGGER
     public static Logger getLogger() {
         return logger;
     }

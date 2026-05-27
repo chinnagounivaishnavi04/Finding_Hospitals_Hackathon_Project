@@ -6,7 +6,7 @@ import pageObjects.DiagnosticsPage;
 
 import java.util.List;
 
-import hooks.Hooks;   // ✅ IMPORTANT
+import hooks.Hooks;   //
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import utilities.ScreenshotUtil;
@@ -21,7 +21,7 @@ public class DiagnosticsSteps {
     @Given("the user is on the Diagnostics page")
     public void the_user_is_on_the_diagnostics_page() throws InterruptedException {
 
-        // ✅ Extent log
+        // Extent log
         Hooks.getTest().info("Given the user is on the Diagnostics page");
 
         logger.info("Initializing Diagnostics Page");
@@ -64,7 +64,7 @@ public class DiagnosticsSteps {
         for (String cityName : capturedcities) {
             System.out.println(cityName);
 
-            // ✅ Add each city to Extent
+            // Add each city to Extent
             Hooks.getTest().info("City: " + cityName);
         }
 
@@ -73,7 +73,7 @@ public class DiagnosticsSteps {
         ScreenshotUtil.captureAndSave(BaseClass.getDriver(), "Diagnostics_Final_Output");
     }
 
-    // ✅ ✅ EXCEL VALIDATION WITH EXTENT
+    // EXCEL VALIDATION WITH EXTENT
     @When("validate diagnostics from excel")
     public void validate_diagnostics_from_excel() {
 

@@ -13,7 +13,7 @@ public class Hooks {
 
     private static Properties p;
 
-    // ✅ Thread-safe ExtentTest
+    // Thread-safe ExtentTest
     private static ThreadLocal<ExtentTest> test = new ThreadLocal<>();
     private static ExtentReports extent = ExtentReportManager.getReportInstance();
 
@@ -21,7 +21,7 @@ public class Hooks {
         return test.get();
     }
 
-    // ✅ BEFORE SCENARIO
+    //  BEFORE SCENARIO
     @Before
     public void setup(Scenario scenario) {
 
@@ -38,7 +38,7 @@ public class Hooks {
         }
     }
 
-    // ✅ AFTER EACH STEP (SCREENSHOT + REPORT)
+    //  AFTER EACH STEP (SCREENSHOT + REPORT)
     @AfterStep
     public void addScreenshot(Scenario scenario) {
 
@@ -53,7 +53,7 @@ public class Hooks {
 
             String base64 = Base64.getEncoder().encodeToString(screenshot);
 
-            // ✅ Always attach to Cucumber
+            //  Always attach to Cucumber
             scenario.attach(screenshot, "image/png", "Step Screenshot");
 
             ExtentTest extentTest = test.get();
@@ -75,7 +75,7 @@ public class Hooks {
         }
     }
 
-    // ✅ AFTER SCENARIO
+    // AFTER SCENARIO
     @After
     public void tearDown(Scenario scenario) {
 
@@ -84,8 +84,8 @@ public class Hooks {
 
             if (driver != null) {
 
-                driver.quit();              // ✅ close browser
-                BaseClass.removeDriver();   // ✅ VERY IMPORTANT for parallel
+                driver.quit();              //  close browser
+                BaseClass.removeDriver();   //  VERY IMPORTANT for parallel
             }
 
         } catch (Exception e) {
@@ -93,12 +93,12 @@ public class Hooks {
         }
     }
 
-    // ✅ AFTER ALL SCENARIOS
+    //  AFTER ALL SCENARIOS
     @AfterAll
     public static void flushReport() {
 
         if (extent != null) {
-            extent.flush();  // ✅ ENSURE report is written
+            extent.flush();  //  ENSURE report is written
         }
     }
 }

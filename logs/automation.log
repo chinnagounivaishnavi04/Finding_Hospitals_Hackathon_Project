@@ -1310,3 +1310,65 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 2026-05-26 11:44:12 - Hospital: 7. Cloudnine Hospital
 2026-05-26 11:44:12 - Hospital: 8. Motherhood Hospital
 2026-05-26 11:44:12 - Hospital: 9. Shadithya Hospital
+2026-05-27 23:09:44 - Opening application and setting location: Bangalore
+2026-05-27 23:09:44 - Initialized page: HospitalsPage
+2026-05-27 23:09:45 - Searching hospital: Hospital
+2026-05-27 23:09:56 - Filtering hospitals
+2026-05-27 23:10:00 - Hospital: 1. MIOT International Hospital
+2026-05-27 23:10:00 - Hospital: 2. Dr. Mehta's Hospitals
+2026-05-27 23:10:00 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-27 23:10:00 - Hospital: 4. Annai Arul Hospital
+2026-05-27 23:10:00 - Hospital: 5. Apollo Cradle
+2026-05-27 23:10:00 - Hospital: 6. Iswarya Fertility Centre
+2026-05-27 23:10:00 - Hospital: 7. Cloudnine Hospital
+2026-05-27 23:10:00 - Hospital: 8. Motherhood Hospital
+2026-05-27 23:10:00 - Hospital: 9. Shadithya Hospital
+2026-05-27 23:10:15 - Initializing Diagnostics Page
+2026-05-27 23:10:15 - Initialized page: DiagnosticsPage
+2026-05-27 23:10:15 - DiagnosticsPage initialized
+2026-05-27 23:10:15 - Scrolling to diagnostics section
+2026-05-27 23:10:15 - Clicking on 'Book Diagnostic Tests'
+2026-05-27 23:10:21 - Waiting for Top Cities section to be visible
+2026-05-27 23:10:21 - Extracting Top Cities list
+2026-05-27 23:10:21 - City found: Bangalore
+2026-05-27 23:10:21 - City found: Delhi
+2026-05-27 23:10:21 - City found: Mumbai
+2026-05-27 23:10:21 - City found: Chennai
+2026-05-27 23:10:21 - City found: Hyderabad
+2026-05-27 23:10:21 - City found: Kolkata
+2026-05-27 23:10:21 - City found: Pune
+2026-05-27 23:10:21 - City found: Ahmedabad
+2026-05-27 23:10:21 - Total cities extracted: 8
+2026-05-27 23:10:32 - Initialized page: WellnessPage
+2026-05-27 23:10:52 - Initialized page: WellnessPage
+2026-05-29 08:58:38 - Opening application and setting location: Bangalore
+2026-05-29 08:58:38 - Initialized page: HospitalsPage
+2026-05-29 08:58:39 - Searching hospital: Hospital
+2026-05-29 08:58:51 - Filtering hospitals
+2026-05-29 08:58:54 - Hospital: 1. MIOT International Hospital
+2026-05-29 08:58:54 - Hospital: 2. Dr. Mehta's Hospitals
+2026-05-29 08:58:54 - Hospital: 3. Sri Ramachandra Medical Center
+2026-05-29 08:58:54 - Hospital: 4. Annai Arul Hospital
+2026-05-29 08:58:54 - Hospital: 5. Apollo Cradle
+2026-05-29 08:58:54 - Hospital: 6. Iswarya Fertility Centre
+2026-05-29 08:58:54 - Hospital: 7. Cloudnine Hospital
+2026-05-29 08:58:54 - Hospital: 8. Motherhood Hospital
+2026-05-29 08:58:54 - Hospital: 9. Shadithya Hospital
+2026-05-29 08:59:06 - Initializing Diagnostics Page
+2026-05-29 08:59:06 - Initialized page: DiagnosticsPage
+2026-05-29 08:59:06 - DiagnosticsPage initialized
+2026-05-29 08:59:06 - Scrolling to diagnostics section
+2026-05-29 08:59:06 - Clicking on 'Book Diagnostic Tests'
+2026-05-29 08:59:12 - Waiting for Top Cities section to be visible
+2026-05-29 08:59:13 - Extracting Top Cities list
+2026-05-29 08:59:13 - City found: Bangalore
+2026-05-29 08:59:13 - City found: Delhi
+2026-05-29 08:59:13 - City found: Mumbai
+2026-05-29 08:59:13 - City found: Chennai
+2026-05-29 08:59:13 - City found: Hyderabad
+2026-05-29 08:59:13 - City found: Kolkata
+2026-05-29 08:59:13 - City found: Pune
+2026-05-29 08:59:13 - City found: Ahmedabad
+2026-05-29 08:59:13 - Total cities extracted: 8
+2026-05-29 08:59:25 - Initialized page: WellnessPage
+2026-05-29 08:59:48 - Initialized page: WellnessPage

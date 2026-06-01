@@ -9,7 +9,6 @@ This project automates the process of identifying hospitals based on specific cr
 The automation is implemented using a real-time healthcare website such as **Practo.com**.
 
 
-
 ## 🎯 Objectives
 
 ### Scenario 1: Find Hospitals in Bangalore
@@ -27,8 +26,6 @@ The automation is implemented using a real-time healthcare website such as **Pra
 - Capture all **top city names**
 - Store them in a **List**
 - Display the extracted cities
-
----
 
 ### Scenario 3: Corporate Wellness Form
 - Navigate to **Corporate Wellness page**
@@ -57,8 +54,6 @@ The automation is implemented using a real-time healthcare website such as **Pra
 - **Version Control:** Git & GitHub
 - **IDE:** IntelliJ IDEA
 
-
-
 ## ▶️ How to Run the Project
 
 1. Clone repository:
@@ -75,8 +70,6 @@ mvn clean install
 
 mvn test
 
----
-
 ## 📊 Outputs
 
 - List of hospitals matching criteria
@@ -86,13 +79,11 @@ mvn test
     - Extent Report
     - Cucumber HTML Report
 
-
 ## ⚠️ Notes
 
 - Avoid committing logs and reports (`logs/`, `reports/`)
 - Use explicit waits instead of Thread.sleep()
 - Ensure proper exception handling
-
 
 ## 🚀 Future Enhancements
 

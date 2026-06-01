@@ -9,8 +9,6 @@ import java.util.List;
 import hooks.Hooks;   // ✅ IMPORTANT
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import utilities.ExcelUtils;
 import utilities.ScreenshotUtil;
 
 public class DiagnosticsSteps {
@@ -116,8 +114,6 @@ public class DiagnosticsSteps {
 
             ScreenshotUtil.captureAndSave(BaseClass.getDriver(), "Diagnostics_Error");
         }
-
-        //ExcelUtils.setCellData(file, "Diagnostics", 1, 1, status);
 
         Hooks.getTest().info("Excel updated with status: " + status);
 

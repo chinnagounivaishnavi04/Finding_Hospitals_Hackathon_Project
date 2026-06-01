@@ -44,26 +44,30 @@ public class Hooks {
 
         WebDriver driver = BaseClass.getDriver();
 
-        if (driver == null) {
-            return; // ✅ avoid crash
-        }
+        if (driver == null) return;
 
         try {
+
             byte[] screenshot = ((TakesScreenshot) driver)
                     .getScreenshotAs(OutputType.BYTES);
 
             String base64 = Base64.getEncoder().encodeToString(screenshot);
 
+            // ✅ Always attach to Cucumber
+            scenario.attach(screenshot, "image/png", "Step Screenshot");
+
+            ExtentTest extentTest = test.get();
+            if (extentTest == null) return;
+
             if (scenario.isFailed()) {
 
-                scenario.attach(screenshot, "image/png", scenario.getName());
-
-                test.get().fail("Step Failed",
+                extentTest.fail("Step Failed",
                         MediaEntityBuilder.createScreenCaptureFromBase64String(base64).build());
 
             } else {
 
-                test.get().pass("Step Passed");
+                extentTest.pass("Step Passed",
+                        MediaEntityBuilder.createScreenCaptureFromBase64String(base64).build());
             }
 
         } catch (Exception e) {
